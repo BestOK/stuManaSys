@@ -2,7 +2,7 @@
 public class StudentVo {
    //test process7£¨2£©
 	private int stuId;
-	
+	//ĞÕÃû
 	private String stuName;
 	
 	private String stuTele;
