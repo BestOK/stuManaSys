@@ -8,6 +8,9 @@ public class StudentVo {
 	private String stuTele;
 	
 	private String address;
+        
+        //modified by daisy57.
+        private String stuEmail;
 
 	public int getStuId() {
 		return stuId;
