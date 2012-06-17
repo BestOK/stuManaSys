@@ -1,6 +1,7 @@
 
 public class StudentVo {
    //test process7£¨2£©  9iiiiiiiiiiiiiiiii    mmm process
+   //in branch of develop.
 	private int stuId;
 	//ĞÕÃû
 	private String stuName;
