@@ -12,6 +12,8 @@ public class StudentVo {
         //modified by daisy57.
         private String stuEmail;
 
+//develop
+
 	public int getStuId() {
 		return stuId;
 	}
