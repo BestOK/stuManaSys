@@ -1,6 +1,6 @@
 
 public class StudentVo {
-   //test process7£¨2£©  9iiiiiiiiiiiiiiiii    mmm
+   //test process7£¨2£©  
 	private int stuId;
 	//ĞÕÃû
 	private String stuName;
